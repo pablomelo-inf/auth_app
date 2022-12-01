@@ -17,3 +17,12 @@ coverage/lcov-report/app/models/index.js.html
 coverage/lcov-report/app/models/User.js.html
 coverage/lcov-report/config/database.js.html
 coverage/lcov-report/config/index.html
+coverage/lcov-report/src/app.js.html
+coverage/lcov-report/src/index.html
+coverage/lcov-report/src/routes.js.html
+coverage/lcov-report/src/app/models/index.html
+coverage/lcov-report/src/app/models/index.js.html
+coverage/lcov-report/src/app/models/User.js.html
+coverage/lcov-report/src/config/database.js.html
+coverage/lcov-report/src/config/index.html
+yarn.lock
