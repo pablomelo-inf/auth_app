@@ -26,3 +26,12 @@ coverage/lcov-report/src/app/models/User.js.html
 coverage/lcov-report/src/config/database.js.html
 coverage/lcov-report/src/config/index.html
 yarn.lock
+coverage/lcov-report/src/app/controllers/index.html
+coverage/lcov-report/src/app/controllers/SessionController.js.html
+coverage/lcov-report/tests/factories.js.html
+coverage/lcov-report/tests/index.html
+coverage/lcov-report/tests/utils/index.html
+coverage/lcov-report/tests/utils/truncate.js.html
+package-lock.json
+tests/database.sqlite
+yarn.lock
